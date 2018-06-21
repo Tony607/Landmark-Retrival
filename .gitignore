@@ -7,3 +7,4 @@ images
 *.h5
 *.HDF5
 __pycache__
+*.jpg
