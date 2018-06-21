@@ -1,0 +1,8 @@
+numpy
+tensorflow
+scipy
+numpy
+matplotlib
+skimage
+six
+pillow
